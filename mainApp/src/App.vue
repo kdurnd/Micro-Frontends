@@ -1,0 +1,9 @@
+<template>
+  <WujieVue
+  width="100%"
+  height="100%"
+  name="dianSuiFang"
+  url="http://localhost:8099"
+  :sync="true"
+></WujieVue>
+</template>
